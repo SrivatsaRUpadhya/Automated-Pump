@@ -10,4 +10,4 @@ A main feature to highlight is:
 
 Well, once the power is restored the time is automatically extended to compansate for the time the device was off due to the power loss.
 
-<img src="https://user-images.githubusercontent.com/75741446/232307124-497eed18-80cd-4949-9e7c-44af2c107d43.jpeg" width="750" height="562"> 
+<img src="https://user-images.githubusercontent.com/75741446/232307124-497eed18-80cd-4949-9e7c-44af2c107d43.jpeg"> 
